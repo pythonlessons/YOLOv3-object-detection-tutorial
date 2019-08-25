@@ -1,0 +1,1027 @@
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0009da46ef64adb7.jpg 549,369,777,605,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\00e481ea1a520175.jpg 0,207,332,523,0 220,97,918,663,0 899,70,1023,672,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\00edd52b1922df7b.jpg 0,135,583,494,0 39,249,955,604,0 982,404,1023,712,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0121e9fe75c930d2.jpg 0,313,113,538,0 156,120,872,589,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0164d85adade5531.jpg 80,389,174,446,0 222,280,1012,642,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0171c29287c62a25.jpg 0,216,272,581,0 0,0,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\02a78b81e2bfe436.jpg 42,193,769,577,0 868,411,979,483,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\034e347bec3f2eb1.jpg 110,85,662,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0378b2b367494fae.jpg 27,116,910,662,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\03aa7ec9d60e3116.jpg 71,144,872,721,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\05e23f0fbdb213ff.jpg 0,0,1022,682,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\06a9ced593c9a4f6.jpg 503,267,746,410,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\06d7fe45c06c8c3e.jpg 0,0,1022,678,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0927554896f7afcb.jpg 0,188,440,613,0 167,88,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\09313d5eac08fbe4.jpg 293,223,716,349,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\09384907cfe61b34.jpg 167,120,897,615,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0b2dde7dc03a3ff3.jpg 94,154,1002,565,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0b752aa32891f706.jpg 39,229,465,611,0 382,275,752,554,0 615,298,983,529,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\0f65b949a4ebd7c7.jpg 55,157,430,414,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\11571e68cf88e97d.jpg 0,334,509,574,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\117e95ef5f12afaf.jpg 0,168,48,618,0 9,12,1020,747,0 882,87,1023,727,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\11d89ac22578c048.jpg 140,130,988,664,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\123d0836d56f4dc4.jpg 193,139,1022,532,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1374074744273bde.jpg 255,169,1015,568,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1644fdb828359545.jpg 477,225,981,555,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\16717d16aadc7f69.jpg 33,51,816,661,0 797,257,873,420,0 867,288,903,384,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1790dd573b7ef476.jpg 0,38,535,680,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1aa47a478022c677.jpg 400,250,990,429,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1c8ac9864399d0b7.jpg 323,407,684,499,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1cfb1ceeb7be1b8e.jpg 481,150,1023,564,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1de671910aa48dec.jpg 210,218,805,465,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\1e440eb80e855252.jpg 216,357,446,631,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2224d5593dc4326e.jpg 74,19,915,617,0 910,238,1023,567,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2693003ff8650e6f.jpg 95,114,833,485,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\28807164d5fd71f4.jpg 403,214,587,376,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2a09bc191303dacb.jpg 141,213,753,561,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2a188eafff41725f.jpg 618,501,911,618,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2aeb87cc34feb982.jpg 275,252,691,577,0 782,391,873,483,0 879,433,920,477,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2b1765a11d190969.jpg 112,28,968,812,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2b5f3bac3384000e.jpg 20,7,1023,424,0 331,0,1023,380,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2ceb75908d1c9393.jpg 101,243,908,502,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2daca0f0d71b23f0.jpg 472,416,746,542,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\2f2935eb52e79354.jpg 0,322,33,422,0 33,201,929,520,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\30a56b9cac34c79e.jpg 26,160,725,858,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\30d8a4c23d65587b.jpg 369,95,807,461,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\325b2107661e0579.jpg 742,631,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\32c2adaea2682f60.jpg 192,148,862,561,0 967,334,1023,373,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3371c2e0a4b067cd.jpg 91,328,135,392,0 141,206,216,430,0 172,176,263,453,0 212,133,316,488,0 271,51,805,582,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\35eabc2d4d58de40.jpg 323,326,678,514,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\362a530ad28cfb56.jpg 122,116,695,695,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\36346d1871cf6644.jpg 187,165,787,375,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\36d0014ac6d2d19b.jpg 228,132,880,608,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3984788615254317.jpg 207,228,960,633,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3bc62c82bcd1b72d.jpg 0,8,997,594,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3d0b844f41c6030d.jpg 0,196,1023,645,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3dc7e8b7c282b5f5.jpg 82,200,824,624,0 676,163,996,496,0 992,241,1023,449,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3df91bdfbaa455ab.jpg 147,88,639,655,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3e74b2e5afb80016.jpg 156,49,865,500,0 574,156,740,245,0 787,183,946,259,0 805,197,1018,338,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3e82f78dd152c4e5.jpg 100,30,743,748,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\3f90c76214d47ea7.jpg 276,235,720,501,0 474,88,1000,560,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\41990ec20d4ca326.jpg 56,273,962,656,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\4596800a7e27be78.jpg 3,5,255,554,0 238,170,280,365,0 246,49,781,664,0 773,127,1023,577,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\477a2db60aa27a91.jpg 309,141,1023,752,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\48f3323dbd4d8529.jpg 174,371,545,530,0 508,386,680,497,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\49ed62fb779544a5.jpg 72,234,941,512,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\4a7b96cfb99811e4.jpg 0,256,1021,662,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\4df8f20576f54edd.jpg 0,0,767,1023,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\4e1bc84070319fc2.jpg 0,0,993,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\5214cdcfec566093.jpg 207,169,778,553,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\54ce78850f56f8c7.jpg 128,325,684,656,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\559d35d9d5103e65.jpg 227,290,924,642,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\573f01154339b1b0.jpg 67,115,896,563,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\5972ba9ff93e94ea.jpg 127,133,840,500,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\5ccbad0951beeebf.jpg 26,4,986,475,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\5db0bc986821a14d.jpg 0,12,1023,568,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\5ded5f9733e84b88.jpg 0,0,1023,764,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\645e59635f30574c.jpg 144,374,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\64f8db6c69a8e3d9.jpg 75,79,970,632,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\65a3c4d045effa62.jpg 14,324,414,509,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\675ac86f923e11ca.jpg 0,0,995,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\6c05615c2f004b1c.jpg 259,172,778,562,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\6e9be230ae568758.jpg 0,260,42,312,0 34,170,498,479,0 540,267,780,330,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\6f596425f42392d4.jpg 219,149,960,725,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\6f9c639277d3d225.jpg 129,273,262,385,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7350c0b3ae55dba7.jpg 0,5,918,294,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7661909c73daa16b.jpg 147,166,513,406,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\77345dd230b354c3.jpg 305,198,611,465,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\789b77d7f98538ed.jpg 58,16,998,277,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7a16da98feb02ba0.jpg 500,314,981,612,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7b84648a70027be8.jpg 0,155,130,682,0 100,31,1006,833,0 918,288,1023,706,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7bd4d372353116ef.jpg 323,375,794,538,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7bec73d280fb3fb3.jpg 0,57,974,351,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7c1a2fbc567959db.jpg 0,155,176,651,0 108,87,992,866,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7c4cc59d95e87b77.jpg 142,47,880,617,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7cfcfea2418ab49b.jpg 0,0,181,767,0 179,213,323,498,0 247,0,1023,674,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7da12ed41fc2f361.jpg 33,391,364,650,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\7f6c5d6f694a8265.jpg 15,387,776,578,0 761,394,1023,471,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\806a837f95680cee.jpg 0,163,307,530,0 167,92,807,604,0 823,378,1023,454,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\80f89146ba004f79.jpg 181,195,807,571,0 645,247,967,538,0 951,281,1023,451,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\82b0cf3296992391.jpg 33,93,917,682,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\845dfa2bd9715574.jpg 110,99,910,611,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\85d908b6737599f1.jpg 67,19,1012,883,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\863a5c1544c0305c.jpg 8,616,54,662,0 52,613,113,666,0 99,405,610,921,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\86c8503513fbd7c9.jpg 224,449,790,983,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\87fef1d992dd64b4.jpg 376,206,583,382,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\88b9bcee3cbd6958.jpg 29,286,324,397,0 286,290,509,417,0 493,299,684,424,0 669,296,883,443,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\8a405c799e32ff50.jpg 69,23,921,716,0 937,214,1023,348,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\8c9f7e98f07bc7d9.jpg 222,80,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\8e8c550e5abdcfed.jpg 115,172,954,524,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\8f569f1c1ba55076.jpg 17,145,1015,423,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\8fcf027be9c64581.jpg 227,470,648,573,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\90ed9cb9da42d380.jpg 37,273,762,679,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\91adb09f1f5b5e46.jpg 374,620,846,875,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\91f54d6a4256b5c9.jpg 56,61,1011,606,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9265c624fc7a9e76.jpg 0,297,1015,1022,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\93da9709abdb1ed6.jpg 660,303,814,383,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\94bf4e8060ad7f19.jpg 0,277,942,549,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\94d49f807a0295a7.jpg 0,211,195,495,0 260,206,787,607,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\977afac1872b0d27.jpg 99,23,933,732,0 40,430,133,526,0 928,456,1023,616,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\992f0f3d1bded705.jpg 444,0,1023,659,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\99eb3f61944b06a9.jpg 5,136,227,340,0 432,148,595,331,0 595,179,707,284,0 712,174,832,296,0 817,179,958,314,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9ba04405acdb8bd4.jpg 453,303,913,643,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9be91a1527084ae6.jpg 103,35,826,631,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9df68a089debdd09.jpg 46,506,101,573,0 110,430,278,613,0 393,482,615,672,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9ee315541b366a9b.jpg 13,180,935,447,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9f40648bcc9ac905.jpg 613,387,794,547,0 787,426,804,488,0 803,363,974,550,0 970,434,997,472,0 998,451,1004,471,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\9fff7a3a83c45bea.jpg 291,157,860,602,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a1c00436609080df.jpg 228,198,759,451,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a282f0ce231781db.jpg 355,368,1023,592,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a3747c94eef6e218.jpg 186,252,786,481,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a3a4af3ec59444db.jpg 202,325,349,457,0 315,257,510,450,0 455,244,772,454,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a54cdfeb867c141a.jpg 30,243,989,698,0 440,299,1023,629,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a5c60bc0a9b9a75a.jpg 246,330,909,597,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a62e8d8774d1e9b4.jpg 57,342,563,781,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a6e05ad189d3a050.jpg 19,282,326,435,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a74b728fae82ef00.jpg 0,207,73,466,0 48,219,693,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a8be419df550a294.jpg 614,590,816,737,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\a9460aa731b4927d.jpg 0,80,961,622,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ab964bef6705d8fe.jpg 1,0,1023,766,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\aba6dc2056e44ac8.jpg 39,313,384,464,0 466,344,764,430,0 940,370,1023,417,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ade56ec06e657a83.jpg 106,545,645,754,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\af09ed499cce1c9e.jpg 71,123,925,489,0 800,183,1023,461,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b0b3e3bb96b0a73b.jpg 27,37,980,619,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b19405917a7f5e06.jpg 186,402,232,435,0 250,205,808,571,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b1ff9281761dabc1.jpg 0,8,1009,746,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b36d8f491ddab5ad.jpg 54,35,926,517,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b52364855c73507d.jpg 278,157,698,575,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b649a680a6b1c0dd.jpg 0,0,435,682,0 549,253,682,362,0 679,288,701,372,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b7024b5d4429265f.jpg 275,64,805,705,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b8a9095c0cc2b6d8.jpg 0,0,567,434,0 56,502,470,971,0 581,0,1023,330,0 585,328,1023,662,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\b920e604358f6524.jpg 0,364,400,664,0 391,492,433,631,0 417,379,722,701,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ba78f4273b4b4965.jpg 124,184,817,620,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\bc468b21e2b6a4c7.jpg 37,381,388,550,0 399,400,476,515,0 464,351,764,575,0 764,415,823,472,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\bcccde71d992d6b4.jpg 110,153,849,635,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\bd0362590b21a218.jpg 42,230,508,347,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\befb41948cabee22.jpg 702,475,929,630,0 917,507,960,598,0 954,515,989,562,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\bf0ae2f3820ada8b.jpg 334,385,577,550,0 555,378,826,535,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\bff97c1714da1e3d.jpg 0,1,63,569,0 33,14,1019,631,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c0bd49bbc3d50821.jpg 128,78,800,669,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c22f0c6ad6e2b9b6.jpg 33,163,442,474,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c27036c5b7baaa04.jpg 0,75,586,661,0 199,29,1023,759,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c4b77fa9fa0b6211.jpg 149,749,620,1002,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c6283c4fe7735de0.jpg 142,91,442,231,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\c9b5faf1c3c8d8d2.jpg 12,270,953,598,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ca80a6ae4487e9b4.jpg 251,90,981,609,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\cbc74c7b2b5ebc5a.jpg 210,460,274,499,0 848,322,1023,632,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ced814618159cc6d.jpg 18,12,803,209,0 18,225,803,420,0 832,4,995,202,0 833,237,1003,421,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d00362eeebc2fe84.jpg 88,151,869,604,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d055c969cb9a2ecc.jpg 144,110,1023,658,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d11edbf8507e0259.jpg 58,183,492,644,0 497,187,970,627,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d1b4606d80dd30aa.jpg 51,185,202,456,0 145,140,746,568,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d3f176da9a53faa5.jpg 0,0,616,478,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d5493b5a444a52c6.jpg 0,422,72,497,0 60,322,536,778,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d680c096d15159f1.jpg 32,172,672,643,0 670,337,924,542,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\d891701404b14336.jpg 0,135,912,470,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\de1287bb2ceadec4.jpg 0,146,492,366,0 0,492,497,708,0 497,488,1023,708,0 505,125,1023,367,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e05cdc4c5b4d3fb0.jpg 0,263,668,650,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e252a1c133619e07.jpg 48,220,1007,500,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e39f99b40b8d2f59.jpg 144,64,934,612,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e4bf9b6af9e923e8.jpg 71,261,872,663,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e594a6bed71c9657.jpg 0,250,953,629,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e5eda283837272b8.jpg 265,142,705,484,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e70029d8fa3fa476.jpg 342,156,714,558,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\e91312d03f692035.jpg 0,246,156,510,0 162,227,407,362,0 395,232,456,304,0 449,217,650,384,0 702,228,787,310,0 816,231,897,311,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\eb7e0b2f9e4d41a0.jpg 833,506,1023,616,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\ee6fa0747a9bb02e.jpg 375,241,800,510,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\efac8a8747c14cb7.jpg 0,133,73,709,0 51,3,939,900,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f048edd2dc250ddb.jpg 40,362,157,416,0 156,177,824,567,0 744,264,1023,505,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f2b13c365765b07f.jpg 138,145,951,743,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f41f10666533656b.jpg 48,18,990,638,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f4e1a516cac90876.jpg 0,561,137,716,0 163,555,297,691,0 254,521,345,611,0 656,523,732,598,0 704,508,763,582,0 935,604,1022,779,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f5008e9c46ac28a4.jpg 0,367,87,480,0 20,226,808,636,0 801,409,895,510,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f67d1e931f64d8b9.jpg 0,28,1000,454,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f79af13c55232e8c.jpg 0,57,1023,629,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\f7d6c04e93883bce.jpg 0,157,958,636,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\fa344463aa8e4cce.jpg 37,41,1018,448,0 368,94,1023,409,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\fad7cb9df2f78084.jpg 1,513,272,866,0 319,408,400,551,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\fcfbe31d1964079c.jpg 0,0,1023,767,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\fd5f95d18aaacdb7.jpg 108,172,869,612,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Bus\fe4b8c7fcf80f084.jpg 140,492,817,761,0
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\006c2bd42fda3598.jpg 0,383,449,811,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\00d175c3f38b56df.jpg 0,268,147,536,1 225,227,740,521,1 808,278,1023,636,1 881,217,1015,248,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\01e7f1a5120c496a.jpg 55,591,654,1024,1 0,810,98,993,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0291d5928fef8bcb.jpg 155,176,826,536,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\037d80d5695f2c22.jpg 0,0,327,110,1 0,0,638,318,1 23,0,128,57,1 24,40,996,630,1 91,0,1023,92,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\04b7c59afe6d65a0.jpg 611,265,1022,352,1 618,300,923,472,1 651,338,1023,770,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\04e2b03264962e5d.jpg 258,402,480,516,1 702,403,752,438,1 755,405,794,438,1 878,411,893,430,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0516937555232db8.jpg 83,298,363,415,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\05b7d75d5d88be7c.jpg 648,362,751,428,1 740,357,784,405,1 778,361,814,397,1 815,350,835,382,1 837,353,849,382,1 855,354,874,372,1 925,348,941,366,1 991,353,1023,408,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\06a9ced593c9a4f6.jpg 247,341,383,410,1 746,354,779,376,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0738c4e084f1d71e.jpg 0,0,1023,574,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\079a777cd33c3c67.jpg 381,331,648,465,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\08a4b489067b0f43.jpg 128,156,857,569,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\08ad7a903b4f9289.jpg 219,200,858,677,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\094be191ebe8bc5f.jpg 890,387,983,414,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0954938368fa8a32.jpg 40,23,1001,600,1 0,50,40,113,1 17,41,204,159,1 704,117,1023,395,1 817,34,1023,197,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0a10b357e75481ac.jpg 468,0,1023,385,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0a73909fed8dc60b.jpg 445,154,1023,636,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0bbce4f27478729e.jpg 0,0,1023,680,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\0cddb42f0dbe3cd0.jpg 149,797,403,935,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\138ecb397c0a0c75.jpg 28,113,993,680,1 0,77,568,350,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\13a55a8115975685.jpg 22,447,621,693,1 533,474,982,668,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\13e539bfccef5a65.jpg 107,159,903,612,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\14841d5551f37d88.jpg 0,0,1023,767,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\14d71f0b7284e281.jpg 737,603,892,685,1 494,598,521,620,1 558,601,588,631,1 594,598,632,638,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\15243f58c3651da1.jpg 418,315,931,575,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1662dca87dd0835d.jpg 165,175,1009,663,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1775cf5cf86cd62d.jpg 22,116,1008,913,1 704,84,1001,222,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1af0a9d29b7e87e3.jpg 446,112,1023,506,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1c4d5a354ac38d18.jpg 57,470,335,575,1 356,490,526,636,1 380,454,492,527,1 565,483,776,618,1 766,465,903,560,1 816,472,981,575,1 876,464,1023,588,1 912,526,1023,622,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1d5a2bb352d22c8b.jpg 787,334,1013,467,1 762,412,830,460,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1d913a88c60e0815.jpg 211,266,676,497,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\1ef17afac6408d27.jpg 769,108,812,135,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\20cc62d940fc8f8e.jpg 210,262,881,493,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\216cc2ef62a5c98f.jpg 90,139,973,597,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\23659d267697ef7b.jpg 0,5,885,767,1 667,0,750,33,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\23f92c1b96dadfef.jpg 0,108,1023,523,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\2669fcd50ce9be41.jpg 5,253,203,461,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\298f2282a7851e78.jpg 70,387,951,664,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\2b3a3dd2dbc2b227.jpg 173,661,364,740,1 279,656,477,751,1 450,641,791,767,1 503,611,967,696,1 665,654,848,767,1 772,631,881,730,1 821,642,896,704,1 834,634,882,661,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\2d68fe39aeacbb61.jpg 57,245,1020,461,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\2f092fbf84f70bf6.jpg 505,268,529,300,1 677,238,771,314,1 904,266,938,309,1 929,230,1023,346,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\31bada83158033d8.jpg 58,107,979,591,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\31f05e8cc4d0f993.jpg 132,106,746,465,1 112,142,300,209,1 751,155,775,175,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\32fe644a1f080aa6.jpg 464,397,613,512,1 0,398,385,523,1 696,390,908,425,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\356138f043d27ec4.jpg 0,129,1023,513,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\35824b9fdee4ab8f.jpg 99,715,337,795,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3637655b971a8a18.jpg 0,151,682,982,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3747cc6c48638c55.jpg 173,23,943,517,1 219,44,399,159,1 960,87,980,135,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\37f54caea0b7bcb7.jpg 0,81,1023,741,1 760,162,1023,420,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\381e78adeaf0a847.jpg 183,392,352,465,1 220,392,293,412,1 325,390,441,432,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3929cc159d8025f4.jpg 0,215,200,568,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\39f935c7556d6702.jpg 340,273,414,432,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3ab0097bca46823d.jpg 13,307,207,645,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3bdbcc0f7b2f4405.jpg 407,0,1023,677,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3c01020137d935b7.jpg 0,0,1023,663,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3d9177704892565d.jpg 0,451,230,571,1 230,443,606,572,1 610,423,1022,578,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\3e8a2b18fe296c68.jpg 0,0,1023,579,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4492a62592a4a58d.jpg 247,188,744,458,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\44c47be520ea1a09.jpg 62,321,289,520,1 800,561,1023,682,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\44cc2f2e54b174b0.jpg 107,272,862,492,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4509cd0e8428144c.jpg 514,300,692,456,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4763105de36299c0.jpg 0,31,1023,590,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4771a0c6446aa994.jpg 200,299,676,510,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4792efe6c5a680d6.jpg 46,52,1024,709,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\479f7f5a271fc5c1.jpg 49,506,238,572,1 270,330,305,406,1 297,156,334,232,1 302,119,330,149,1 375,335,425,374,1 432,94,531,222,1 566,330,638,383,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\48439b8f2f3558c1.jpg 34,168,702,391,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4911dd7835b1ce6c.jpg 195,118,496,255,1 361,111,553,192,1 473,128,848,284,1 550,137,614,169,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\495e59a2ea6db62e.jpg 33,140,961,451,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\49affab741571c52.jpg 817,555,1002,639,1 150,546,307,583,1 266,648,401,680,1 327,657,496,680,1 479,543,595,563,1 503,607,636,680,1 606,606,819,680,1 885,518,936,542,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4a2efd27809446f4.jpg 0,0,760,767,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4a80ae7401b1eba3.jpg 626,723,738,868,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4c5349b451100e4a.jpg 892,189,1016,286,1 556,165,907,299,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\4f1d96c273a3273a.jpg 71,45,968,680,1 758,267,863,337,1 981,293,1023,341,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\524cc6231109302c.jpg 141,185,730,631,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\52735c281bed4ecb.jpg 87,259,601,440,1 89,250,960,627,1 705,292,1011,500,1 750,263,984,356,1 984,262,1023,356,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5288fdb8ecbb647a.jpg 56,311,688,791,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5391610f36d3a3ea.jpg 667,438,752,506,1 0,264,81,299,1 377,353,461,409,1 599,411,688,458,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\53aa395395482c1e.jpg 19,118,972,597,1 8,67,1022,196,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\559d35d9d5103e65.jpg 0,455,220,624,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\56083bcd47a175fa.jpg 810,303,1023,550,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\56fd42b42ba79243.jpg 0,254,167,318,1 65,237,525,380,1 192,228,435,278,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5766667e42819560.jpg 0,0,1024,768,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\592e3df4fde8793d.jpg 360,329,509,467,1 513,329,568,378,1 646,316,678,327,1 650,327,685,361,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5a3cdac97317f3ab.jpg 111,266,248,352,1 0,323,78,363,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5c6e827eb24cbed7.jpg 14,74,988,754,1 0,82,513,461,1 234,92,723,193,1 618,37,789,88,1 782,75,1022,254,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5d0aca0dd70b08fd.jpg 198,703,4003,2728,1 0,1927,146,2892,1 0,494,562,795,1 510,611,863,890,1 1027,494,1810,761,1 3418,867,4589,2297,1 3759,654,4589,1102,1 4459,649,4589,824,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\5dc79ddb126e6541.jpg 17,106,56,130,1 23,107,208,192,1 81,71,937,586,1 639,103,980,240,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\61bae5e9dfef3d2f.jpg 0,194,671,682,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\622a472eb251f2d4.jpg 0,206,129,362,1 556,124,1023,515,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\63d30df88e2aaff3.jpg 232,556,572,682,1 540,560,741,682,1 736,579,856,682,1 844,583,938,665,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\642f3ba0f576046e.jpg 103,86,838,608,1 0,41,239,139,1 0,60,520,287,1 487,47,516,99,1 544,60,780,127,1 839,78,1023,178,1 936,189,1023,670,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\643a6b8f14f6e922.jpg 0,30,232,196,1 35,14,947,572,1 892,30,969,80,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\68b321aa13d3e402.jpg 0,12,276,194,1 174,19,961,513,1 880,30,1023,233,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\69ba247cd18ed0c5.jpg 99,85,903,549,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6a3d91d5a5493a26.jpg 120,389,385,497,1 462,381,737,496,1 905,403,1023,500,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6ab80ef3b456edfb.jpg 31,149,1004,721,1 970,203,1023,330,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6bc7e073ae8bd2f6.jpg 176,140,862,516,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6c6f1ec8e2f616ca.jpg 256,87,852,315,1 0,119,318,294,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6df3c1abc708b2e9.jpg 437,231,841,385,1 11,204,69,254,1 128,212,170,234,1 209,204,246,243,1 271,214,316,243,1 640,220,683,246,1 692,215,727,240,1 728,222,759,235,1 760,219,806,246,1 812,215,837,235,1 849,224,902,249,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6ebf9a45c57f7003.jpg 2,250,286,551,1 0,368,73,566,1 0,193,680,1023,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\6fd11daedfb527ed.jpg 12,30,995,409,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\70118d90749eedef.jpg 71,206,876,497,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\71b229b03b46fffa.jpg 14,374,128,493,1 51,326,296,578,1 506,382,829,597,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\71be1f9e19bf0a2f.jpg 312,174,783,522,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7368401832d772b7.jpg 77,144,1023,682,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\74062a435965491d.jpg 0,127,250,321,1 11,120,110,162,1 24,181,476,385,1 184,148,251,190,1 231,136,368,199,1 352,127,486,210,1 394,199,915,504,1 679,132,816,220,1 837,126,940,234,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7482c3155bd9e21a.jpg 298,149,936,602,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7486dfacabf5013c.jpg 225,138,1010,385,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\768269e88eccf862.jpg 0,0,1021,897,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\77ca9d3768597e06.jpg 60,223,940,592,1 638,473,1023,684,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\78c0c82435a46232.jpg 0,46,1023,637,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7c5f883309608510.jpg 848,216,956,260,1 908,197,1014,251,1 965,195,1023,296,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7c658c937689717d.jpg 29,267,940,761,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7c931e72a0d0ba58.jpg 67,57,952,726,1 956,135,1022,270,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7e22b13669f951b2.jpg 44,129,877,573,1 135,120,184,154,1 460,183,1023,512,1 581,168,663,188,1 685,166,844,247,1 815,184,992,280,1 951,201,1023,300,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\7e86275d9ec5d68e.jpg 283,397,327,454,1 355,415,414,464,1 371,424,444,498,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\8057139d6a55cd2f.jpg 0,92,300,505,1 294,180,544,412,1 454,204,771,358,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\813d5328f20ab7a4.jpg 305,563,444,642,1 886,613,1023,681,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\819003a2f313a857.jpg 23,225,241,652,1 331,176,584,285,1 638,277,1002,546,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\8401d4b8c5c8fa7c.jpg 115,30,560,296,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\84154c662a8e79a9.jpg 616,434,707,558,1 0,320,67,360,1 346,427,435,518,1 833,43,844,51,1 847,26,854,28,1 860,30,867,33,1 878,30,884,35,1 883,39,893,44,1 896,35,903,40,1 904,52,915,58,1 931,64,945,75,1 949,40,964,47,1 953,60,968,69,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\860bc8b0d68c7558.jpg 149,224,961,500,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\88b9bcee3cbd6958.jpg 878,366,982,430,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\8dc94b7688fdad26.jpg 254,959,399,1013,1 446,974,469,999,1 519,962,551,1015,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\8fe9d5277fd4e04c.jpg 42,235,1001,645,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\901a4e7e96bfc8ac.jpg 360,270,606,472,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\94e48a408625d1da.jpg 209,868,767,1023,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\95520b9d8f1dd5f2.jpg 199,93,830,574,1 844,47,1022,299,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\96996ca284eee1ff.jpg 192,332,298,386,1 309,180,339,207,1 337,180,362,206,1 545,378,717,505,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\9b250067f162f326.jpg 383,406,578,510,1 0,399,48,436,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\9ce6fee59385b470.jpg 47,187,968,695,1 1,264,19,318,1 61,0,222,9,1 90,54,224,152,1 104,211,247,262,1 266,67,359,129,1 275,0,347,26,1 280,176,361,242,1 385,0,448,28,1 387,168,445,213,1 389,67,439,117,1 465,0,512,30,1 466,145,508,185,1 466,60,511,107,1 528,62,561,101,1 531,0,558,41,1 574,58,605,92,1 579,0,605,37,1 595,147,703,199,1 619,61,639,87,1 620,0,640,37,1 627,127,745,168,1 645,61,661,88,1 650,5,667,37,1 673,61,688,85,1 676,7,696,40,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\9edacb4602844c16.jpg 41,0,958,444,1 816,69,1023,250,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\a073f43821f32ba7.jpg 0,744,167,922,1 354,728,414,800,1 407,718,433,744,1 509,721,540,744,1 538,728,566,748,1 575,730,601,757,1 622,728,668,762,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\a336041871b244fd.jpg 0,180,1023,767,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\a4f9f8cc339fbda3.jpg 68,311,778,562,1 446,309,894,509,1 462,303,951,474,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\a5b7fd4f5d7ef2e4.jpg 453,531,887,768,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\a6e39caa74536b50.jpg 0,0,1023,704,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\aab0267978145b3e.jpg 64,104,962,598,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ae4f7cd7f24f49e0.jpg 108,42,871,497,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\aef53863d93da9e7.jpg 221,250,683,820,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\b0a24717b379cfb7.jpg 18,224,760,508,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\b2a28a9972850b34.jpg 0,558,118,598,1 275,552,364,612,1 355,555,405,591,1 501,548,565,578,1 595,540,663,578,1 659,544,749,598,1 702,546,968,626,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\b3d018ee094973f8.jpg 95,250,954,565,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\b87808496b35a412.jpg 3,63,978,665,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ba34e104892595f5.jpg 27,11,964,733,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ba38bac0805ea107.jpg 30,117,1023,438,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ba784877889b1a4e.jpg 93,173,948,560,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bad1a30be9136186.jpg 197,396,335,461,1 238,449,828,605,1 471,298,558,352,1 472,395,561,449,1 718,395,833,459,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bb05c5196a2ee7d0.jpg 193,518,449,627,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bb1f084a1ce23358.jpg 248,395,455,521,1 0,407,56,478,1 61,403,204,455,1 212,403,305,436,1 320,384,378,413,1 378,386,423,409,1 395,391,412,403,1 439,385,476,421,1 462,376,520,421,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bea483e99523683e.jpg 0,210,90,388,1 0,135,134,150,1 70,148,980,553,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bf9a58054388de27.jpg 0,0,273,319,1 47,99,985,610,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\bfe105f36ff19afd.jpg 732,347,1024,556,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c1093fc9f3cbc490.jpg 0,41,1023,288,1 106,88,890,680,1 493,124,986,373,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c2216b7f01f2e2f7.jpg 0,350,92,419,1 84,334,279,417,1 272,350,655,456,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c23e46a969d227c1.jpg 629,606,730,705,1 724,625,937,720,1 764,577,963,727,1 878,557,1023,655,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c38bf774fda7f124.jpg 560,674,936,984,1 567,571,624,597,1 642,602,695,672,1 654,595,682,664,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c3c2e67c843db493.jpg 65,82,300,275,1 78,206,634,976,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c4ba649c38d73a07.jpg 0,456,454,766,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c57dc746646e31ef.jpg 0,0,558,395,1 447,19,726,310,1 652,43,863,242,1 808,44,933,141,1 838,57,932,236,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c5de1238fdd0b75c.jpg 0,162,1023,563,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\c9c05d01396fd258.jpg 0,0,1024,685,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\cac675818bdb95b6.jpg 630,272,1019,600,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\cb8f46f682a44b61.jpg 37,476,144,536,1 60,464,1022,556,1 112,472,210,516,1 295,472,460,553,1 428,500,631,557,1 545,494,654,537,1 698,504,904,560,1 782,497,929,557,1 892,500,989,547,1 988,509,1023,556,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\cc133ce81a4abd81.jpg 174,741,349,851,1 287,734,367,805,1 354,759,408,803,1 575,760,680,856,1 600,853,680,1023,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\cdd648c6461cbddc.jpg 362,446,536,529,1 600,447,810,565,1 810,440,888,479,1 901,445,1023,526,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ce0e9ccd87eded2d.jpg 33,94,1008,676,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d0d04d2433765d19.jpg 85,249,844,471,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d11edbf8507e0259.jpg 944,375,1019,411,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d25087024f6c2200.jpg 0,179,22,190,1 42,179,92,208,1 141,167,853,499,1 172,185,225,205,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d2973f66d26311e6.jpg 94,622,209,724,1 0,616,46,679,1 42,583,88,624,1 72,576,108,622,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d3f0c86de66f924c.jpg 0,259,253,726,1 181,243,896,587,1 579,227,1023,451,1 833,219,1023,306,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d42f549ede34c8bc.jpg 106,109,1023,413,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d589dddb274958b1.jpg 0,0,767,1023,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\d73d6862bacc935c.jpg 88,236,787,561,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\dbb92686e21f23ba.jpg 28,331,174,478,1 0,299,78,514,1 200,368,243,409,1 240,372,280,404,1 282,354,335,409,1 320,362,392,406,1 398,351,417,414,1 411,325,486,433,1 587,347,700,419,1 907,304,1023,493,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\de0d95dd934bcfa5.jpg 71,568,464,608,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\de9fc17b8e14e28d.jpg 96,140,968,615,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\dfb0c11bae5a0393.jpg 829,535,922,601,1 940,513,979,549,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e06e711072fe7889.jpg 0,424,121,529,1 11,292,225,371,1 20,171,220,247,1 230,297,452,376,1 230,171,466,241,1 472,300,704,383,1 477,147,732,235,1 535,465,727,597,1 750,290,1019,391,1 762,140,1023,233,1 802,470,993,606,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e084977ded8f35da.jpg 102,202,866,615,1 0,287,152,380,1 124,291,239,337,1 827,272,1023,432,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e2c895630d2696c0.jpg 87,644,302,682,1 549,592,741,681,1 613,624,838,682,1 746,506,885,576,1 851,469,945,523,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e4df63279e7deea1.jpg 0,306,23,419,1 0,384,190,597,1 185,551,309,651,1 210,508,394,608,1 318,376,915,649,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e535e8cab516eb5b.jpg 0,0,1023,682,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e538b618fee24688.jpg 0,402,92,558,1 0,291,199,325,1 831,289,1023,328,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e5dc511eaacf1b67.jpg 206,215,839,697,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\e80f071ce8b78add.jpg 0,485,590,680,1 0,122,1023,337,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\eaf4321504b947a4.jpg 41,463,347,718,1 194,382,482,625,1 398,472,791,743,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\eb8a7d797c65b4a4.jpg 0,469,118,767,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\ee21e504643e25e5.jpg 18,357,725,480,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\f23828face374c61.jpg 44,172,968,668,1 525,200,1023,514,1 757,223,1023,318,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\f5fe57aff10e881f.jpg 63,563,577,687,1 68,523,170,601,1 173,514,844,649,1 527,577,1023,687,1 849,545,984,589,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\f7a92c3ac7ccd8ec.jpg 479,566,534,594,1 519,536,642,612,1 640,467,887,576,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\f8ee492cbb788d47.jpg 15,299,102,378,1 85,262,273,391,1 150,267,536,427,1 183,272,986,577,1 452,252,577,277,1 580,231,728,279,1 749,241,1009,296,1 789,259,933,329,1 967,244,1023,295,1 993,259,1023,311,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\f97d6f4a93893f40.jpg 0,500,24,520,1 19,503,44,517,1 46,496,73,517,1 61,495,93,517,1 348,488,391,539,1 363,497,456,535,1 773,517,940,572,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\fae200d6756a310f.jpg 211,123,994,638,1 732,194,961,269,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\fbcdaebbac9978cb.jpg 645,543,788,600,1 814,524,1002,608,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\fbf7fee8eedfe0fb.jpg 33,68,987,739,1 0,98,113,398,1 523,124,737,254,1 668,94,1023,529,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Car\fce6fb2a0eb046f2.jpg 118,155,934,592,1 0,153,124,269,1 468,121,586,165,1 544,122,612,163,1 616,0,1023,420,1
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\003eb877f2eb5fb5.jpg 432,844,521,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\004b45f2da08fa19.jpg 1012,367,1023,406,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\009ef5ff9f16f221.jpg 544,525,593,655,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0261e40526c289ff.jpg 111,74,387,679,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\029753264f2171d2.jpg 789,631,812,695,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\02d43f8313a28990.jpg 123,183,474,871,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0313b07e33f8a5ad.jpg 689,144,972,766,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\04030cba0a81cd37.jpg 161,397,252,533,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\06af060d6a84902a.jpg 158,77,424,627,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\06b4e7420f8e669a.jpg 626,499,715,724,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\07251ab9c1197b1d.jpg 168,39,904,679,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\085827899bc32823.jpg 353,185,663,837,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\09950cde030cf7ff.jpg 140,304,391,455,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0a08169241bdcf96.jpg 58,219,791,766,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0a0b97aa8518cdb2.jpg 293,158,650,647,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0a5cff35686605d5.jpg 358,291,684,995,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0c07a0fcd40d4db1.jpg 325,293,503,802,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0e665df52228d7f6.jpg 423,218,639,563,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0e8851ece9e32d54.jpg 311,17,684,668,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\0ef0e54bf871dd48.jpg 371,556,438,695,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\10d65885f4cfb040.jpg 278,136,639,616,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\10f3ef24f968197b.jpg 252,369,372,616,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\12302a4f22ae20e3.jpg 403,151,602,603,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\12e7e01404cd3f47.jpg 739,117,927,606,2 743,182,928,610,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\13794209a007967e.jpg 88,2,694,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1457609c753188e7.jpg 308,259,643,1006,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\15f3fa0248a10ace.jpg 256,163,526,786,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\16dd30faa20bafdc.jpg 240,138,531,677,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1736dc2684d8a9f2.jpg 289,34,734,729,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\17d56df33682d9d5.jpg 72,23,1021,873,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\180de3a8e3cba307.jpg 229,199,792,517,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\180e232c229a350b.jpg 272,201,469,613,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\18f3fc03ce6e663e.jpg 695,543,856,763,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\19141566dccada29.jpg 121,48,632,935,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1a18d59963dcd4d4.jpg 348,139,392,236,2 619,187,765,471,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1a8fd9713f718fff.jpg 130,123,607,1020,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1acd3340ea42a259.jpg 16,345,533,716,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1be9c3f920bc79e7.jpg 430,184,714,765,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1d074e321165fe4d.jpg 323,433,454,762,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\1ea6e5afc958d3dc.jpg 487,261,741,602,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2069556eb55243f9.jpg 405,192,599,588,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2110f92f2f2a3b46.jpg 130,615,237,870,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\21ee840224e97709.jpg 187,144,425,526,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\22959836226f240c.jpg 389,39,693,685,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\242a871d77daf35e.jpg 157,216,489,961,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\250ff6a59051e056.jpg 120,347,479,1022,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\257a47dea0d24b9a.jpg 5,51,726,842,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2649e2a06a3dc4f0.jpg 430,483,586,844,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\26534e0bd5585fa0.jpg 216,43,641,944,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\269f54e65180395f.jpg 44,252,279,732,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\26f74c5d10f9f99d.jpg 131,363,594,886,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\288f8573968c6390.jpg 225,624,370,933,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\28a793a3997a9921.jpg 85,130,682,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2c1b5fb0305283e4.jpg 373,284,767,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2c1fe1ca09e10512.jpg 85,380,259,789,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2c8ac32ffb411ae3.jpg 404,454,636,767,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2cd708c4ce96e5f3.jpg 147,7,361,639,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\2f1181496520f81c.jpg 295,401,471,687,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\30302b83ee62a30a.jpg 249,289,475,758,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\318d52e90ba92f5c.jpg 74,440,292,935,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\34d30a0e61488491.jpg 256,146,602,839,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\357606201ba18dd1.jpg 0,102,361,605,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3618cdd3e0a81def.jpg 142,262,371,891,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\37efab758fc82ed1.jpg 565,224,737,609,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\381e18187bdae4c6.jpg 99,135,606,937,2 103,133,604,943,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3859a0ba4913ce2b.jpg 93,85,535,871,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\388744ddf4e4f67b.jpg 455,156,630,632,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\38da0b3d016d8607.jpg 327,552,475,893,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3b00eaee958aaeb6.jpg 355,373,664,843,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3b46230678253ac1.jpg 69,41,672,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3b762a5b38babf7b.jpg 169,48,519,940,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3cb790ded657ed46.jpg 110,289,288,639,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3d138e9c3f74c95a.jpg 218,142,563,910,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3d4178defb5e3341.jpg 3,200,414,919,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3d5233fde57b6b83.jpg 382,0,928,682,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3d8e8990a6513430.jpg 239,104,659,988,2 241,102,661,981,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3e62607299613ac9.jpg 152,124,462,946,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\3e92b986ffaed891.jpg 225,221,565,734,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\40f1596d0d8eac00.jpg 252,214,567,851,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\40f9456f504e3324.jpg 200,293,463,692,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\417468f1bda12ad5.jpg 138,25,479,656,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\427fbccf394d9b19.jpg 156,263,261,634,2 302,247,533,896,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\42eec18cd3dab2c5.jpg 198,146,604,928,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4328602be86bd43c.jpg 83,158,597,929,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\437bc424d85f6ff4.jpg 467,45,782,686,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4392150c26f76239.jpg 91,108,649,965,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\446543bd8be19937.jpg 94,21,685,1006,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\451b5e8df503f622.jpg 252,202,360,369,2 385,227,475,422,2 503,216,625,472,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\46cbd93254a06251.jpg 10,42,436,567,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\48d9343078dbf47f.jpg 236,15,551,865,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\495e5394e3d443b2.jpg 143,225,503,977,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4974b9e909b63d1a.jpg 0,0,1023,684,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\49ec289f4bffb727.jpg 62,440,398,1001,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4bcb8ea4c22f8dd1.jpg 19,357,459,957,2 74,23,477,341,2 509,25,986,660,2 509,677,986,999,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4dba066ac4b250e4.jpg 46,39,716,908,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4de26c7341a28a84.jpg 42,97,355,655,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4dec87b70e6a06bb.jpg 321,132,609,698,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4f67f82b21774abb.jpg 344,0,766,934,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4f7b380083cdba9c.jpg 94,25,904,766,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4f8d8d396a51b7d2.jpg 358,240,549,590,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\4f9ef843346a9674.jpg 389,271,677,699,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\50355ed3a4d0a870.jpg 121,172,577,848,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\51dd13013a957a9e.jpg 54,9,735,964,2 59,19,734,964,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5259bb79c1152b5c.jpg 182,292,519,851,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\54a9f43ce5dc4086.jpg 321,0,556,877,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5552f0741927fcd2.jpg 258,378,518,683,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\561bf69e96f35a63.jpg 611,168,972,668,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5899b39501ad6c02.jpg 181,187,579,967,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5affb727950c9686.jpg 12,244,972,767,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5d5dd982d19a18f7.jpg 31,42,334,705,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5db8c40ca0673bdc.jpg 730,199,933,532,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\5fa65e715d81051b.jpg 552,142,754,639,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\60b215d0814df4f8.jpg 140,44,529,988,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\61bed49bcef7e310.jpg 526,129,886,701,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\61cb43cb6a0a1f94.jpg 263,183,576,770,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\63c90a851826234c.jpg 126,211,559,896,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\63d8bc0081f0b695.jpg 250,392,406,743,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\649767ff3206928c.jpg 330,126,542,461,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\656de3eb86977e08.jpg 559,70,887,588,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\656f5ec7159ee17c.jpg 728,197,882,514,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\66863bed7c4a4f09.jpg 28,43,459,972,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\6956950f7d93a78e.jpg 95,215,435,846,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\6974653ae0466293.jpg 173,34,491,635,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\6a4559e855420178.jpg 538,0,856,739,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\6ed414f6b932d116.jpg 522,37,913,768,2 526,33,917,768,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\6f61c3d9e9e0a386.jpg 151,122,504,776,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\7214f2d670d2b797.jpg 727,458,904,864,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\7405f05463defb65.jpg 114,95,578,932,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\7474761b1d130ab6.jpg 177,232,582,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\748d64f3f5a49b7b.jpg 170,199,459,771,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\756b4552264c0483.jpg 460,49,641,382,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\75b7f60d13a0c698.jpg 193,49,532,492,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\76663b0c2dd0030f.jpg 159,62,608,947,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\77d4ce6685eb16eb.jpg 78,407,336,965,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\7bd26c6d0bbb1f9e.jpg 630,147,835,609,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\81ef38ca06697834.jpg 385,324,602,674,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\82ac4c6489cd3da0.jpg 135,116,682,819,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\83ddecc5715d0b30.jpg 350,240,533,830,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\84168ec26fc97ea6.jpg 241,78,631,989,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\849872509f14030e.jpg 71,30,475,499,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\84cac0b842609cf3.jpg 258,261,655,988,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\85ac7792bfd45870.jpg 0,136,625,767,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\871fcd09d97ea4d9.jpg 294,0,1023,681,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\893541c858aca678.jpg 0,0,540,680,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8c4c4ca00f755531.jpg 94,20,679,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8cce996d0a54e34c.jpg 145,48,896,650,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8d9e8d98b8f102ad.jpg 0,0,1023,778,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8f609f01753d69e7.jpg 0,85,571,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8ff694b19561c3df.jpg 373,72,631,846,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\8ff9a21c484e445f.jpg 241,129,889,602,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\91ebaa683cd38351.jpg 210,277,487,872,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\94003909c8252089.jpg 572,44,850,710,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\94ab742b5e3504e9.jpg 431,42,888,734,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9766d90d60bb96b6.jpg 253,74,1002,545,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\976836d7ed5c602d.jpg 129,42,558,606,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9782ef2c2e58aa41.jpg 377,139,742,907,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9a11e5bebe3bc0a1.jpg 88,49,489,946,2 88,47,491,937,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9dd560299b72d70e.jpg 329,251,547,641,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9e4186a54d88d096.jpg 289,153,552,725,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9f91872a2321ef24.jpg 204,120,565,734,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\9fca7539234072d3.jpg 132,199,547,886,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\a0937c388e9e66a4.jpg 331,193,654,900,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\a2c657eab6387487.jpg 138,37,819,722,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\a3293aebf3086c9f.jpg 159,440,404,891,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\a5f90d47ad2a9a85.jpg 225,85,608,893,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\aad66e6ed2103de8.jpg 70,156,704,656,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\ab1a0e9ca5d447fc.jpg 333,437,443,709,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\ad6963ea0859b430.jpg 478,142,835,913,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b2cf8fc794ed1485.jpg 420,68,1006,679,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b43284465f0f9931.jpg 197,76,606,916,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b5d9991ee3a26e2f.jpg 314,30,571,575,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b7b22c2ee5557796.jpg 179,592,379,985,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b814104e13dd53c5.jpg 26,48,952,682,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\b9d38f19179a181e.jpg 71,88,318,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\bab81ffb1c2d75d9.jpg 220,200,482,865,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\bdff78f44891ed37.jpg 0,23,767,1023,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c11685789de1a7c0.jpg 255,340,462,763,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c1eda59039e0e76b.jpg 280,42,760,643,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c32255e220026d30.jpg 224,130,447,844,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c3e532cb51d6fb4e.jpg 449,23,797,754,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c479e872eceba494.jpg 279,138,764,677,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c563b7ff7ee2de07.jpg 566,24,905,778,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c5903dc8ddb21552.jpg 10,117,986,682,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\c904cf6a34ef9b3f.jpg 253,225,446,966,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\cd02bef6a0634715.jpg 225,1,484,545,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\d148715a991e8766.jpg 323,69,522,590,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\d1f77ec7b555d041.jpg 212,352,608,981,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\d3bd0120ce940fe5.jpg 119,62,584,975,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\d86ed01f7a611e79.jpg 542,278,805,695,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\daf1f18e1a091ba2.jpg 204,211,561,752,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\df63bc2e841b29c4.jpg 324,68,522,990,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\e07730c187e5ed99.jpg 25,35,506,661,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\e8004c1e2d776b6c.jpg 257,123,622,643,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\ec53772028704fe0.jpg 659,32,927,722,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\ed77087987c4cd44.jpg 164,228,775,516,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\edc04433ee4e3eb2.jpg 220,139,760,852,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\f413b2f09e7fcfab.jpg 174,15,743,668,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\f43b728f35ef2b4b.jpg 199,232,520,778,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\f7e2d5cfe1359629.jpg 237,562,432,949,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Fire_hydrant\feef2428e7b62667.jpg 760,249,949,579,2
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00010bf498b64bab.jpg 0,205,32,230,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00010bf498b64bab.jpg 12,235,26,251,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00010bf498b64bab.jpg 96,244,123,258,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00010bf498b64bab.jpg 454,245,484,274,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00010bf498b64bab.jpg 515,212,533,263,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 83,323,88,333,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 108,323,113,333,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 196,331,201,347,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 316,275,325,295,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 357,282,370,306,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 451,329,458,357,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 536,338,542,350,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 549,344,554,352,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 732,325,738,345,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000bb0ae453283b0.jpg 914,327,923,350,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000f269d7fece350.jpg 545,334,563,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000f269d7fece350.jpg 556,366,577,410,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\000fea75ed43e923.jpg 327,56,440,192,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00103f4031747124.jpg 631,456,692,601,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00103f4031747124.jpg 730,553,793,671,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00ecd56cf003cd6e.jpg 249,297,287,371,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00ecd56cf003cd6e.jpg 434,194,547,308,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00ecd56cf003cd6e.jpg 466,471,472,512,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00ecd56cf003cd6e.jpg 486,468,504,513,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\00ecd56cf003cd6e.jpg 586,308,664,380,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0168bdab2295f425.jpg 334,344,344,381,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0168bdab2295f425.jpg 639,404,643,415,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0168bdab2295f425.jpg 839,310,854,356,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0168bdab2295f425.jpg 921,402,930,413,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 145,276,158,310,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 339,330,350,334,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 362,329,372,335,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 520,287,531,315,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 569,293,583,304,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 683,206,703,226,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 766,123,809,155,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 848,221,863,235,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\01ffbfff983aa820.jpg 865,76,919,109,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 363,487,368,506,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 396,280,417,367,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 429,482,437,503,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 550,546,552,555,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 668,279,689,342,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 712,490,718,507,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 768,494,773,507,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\024d59f1eeb4b7af.jpg 906,277,927,337,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 41,31,336,626,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 186,93,503,650,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 211,646,339,700,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 253,662,337,841,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 312,883,341,927,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\030b331b7d62d621.jpg 421,837,459,890,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0379d0a6b0d1d3f9.jpg 555,195,699,420,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0379d0a6b0d1d3f9.jpg 712,208,769,385,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0379d0a6b0d1d3f9.jpg 807,725,829,767,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0379d0a6b0d1d3f9.jpg 917,526,964,602,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0385a127add3e440.jpg 363,115,399,148,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0385a127add3e440.jpg 528,120,560,151,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03cb96045c9ee90e.jpg 210,146,238,223,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03cb96045c9ee90e.jpg 540,314,559,349,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03cb96045c9ee90e.jpg 699,210,730,267,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03cb96045c9ee90e.jpg 707,311,731,351,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03cb96045c9ee90e.jpg 920,202,949,261,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03d9e79365aa15c5.jpg 27,37,107,178,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03d9e79365aa15c5.jpg 105,67,156,207,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03d9e79365aa15c5.jpg 408,659,435,691,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\03d9e79365aa15c5.jpg 605,412,644,487,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\048c3c6b4207b465.jpg 172,37,270,277,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\048c3c6b4207b465.jpg 172,10,352,290,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\048c3c6b4207b465.jpg 273,19,352,282,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\056c1d08f77f2b96.jpg 739,192,898,491,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\059d16d46a929bda.jpg 216,805,412,1023,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\059d16d46a929bda.jpg 240,224,475,669,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\059d16d46a929bda.jpg 481,873,619,1023,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\072d02273245a2c4.jpg 40,390,74,484,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\072d02273245a2c4.jpg 156,467,179,521,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\072d02273245a2c4.jpg 181,468,202,519,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\072d02273245a2c4.jpg 652,481,677,499,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\072d02273245a2c4.jpg 659,501,673,514,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\07cd2072dbcb6793.jpg 326,526,557,682,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\07cd2072dbcb6793.jpg 929,522,1023,682,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\07cec9d180d600ce.jpg 172,166,321,431,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\081c7365d8d1cf0d.jpg 42,74,91,191,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\081c7365d8d1cf0d.jpg 74,86,119,197,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\081c7365d8d1cf0d.jpg 616,444,624,459,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\081c7365d8d1cf0d.jpg 793,396,832,456,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08a71de91e1c60e4.jpg 22,303,49,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08a71de91e1c60e4.jpg 218,422,238,463,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08a71de91e1c60e4.jpg 312,303,332,360,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08a71de91e1c60e4.jpg 419,171,462,261,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08aca675c617d832.jpg 178,379,195,394,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08aca675c617d832.jpg 650,422,668,442,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08aca675c617d832.jpg 665,368,678,406,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08aca675c617d832.jpg 835,373,853,409,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\08aca675c617d832.jpg 999,180,1023,250,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\094fdb5cc791f512.jpg 604,191,691,291,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0b223f1836fe5b7a.jpg 338,101,610,664,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0b223f1836fe5b7a.jpg 576,693,682,977,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 133,451,156,497,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 226,492,243,534,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 236,546,254,577,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 440,522,462,570,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 451,577,465,593,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d67c5042fa310b9.jpg 664,281,712,394,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d6abadcedefa4b9.jpg 865,520,875,541,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0d93f620f277c724.jpg 576,254,614,294,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 51,204,117,272,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 60,52,124,190,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 721,188,762,273,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 723,294,766,336,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 890,384,906,409,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0e8fc36a7500e26f.jpg 892,421,906,435,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 0,210,17,255,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 248,359,256,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 261,298,270,323,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 268,259,309,336,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 325,296,341,324,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 378,350,398,372,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 453,133,494,206,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 599,133,641,206,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 670,353,682,374,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 709,295,716,318,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 725,288,736,310,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 748,279,755,306,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 768,277,780,302,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0ee15c895e387bc0.jpg 808,318,819,357,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0f87b3e96fc46db4.jpg 110,556,151,619,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0f87b3e96fc46db4.jpg 276,315,363,452,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0fb457b5423aa9a2.jpg 177,227,219,327,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\0fb457b5423aa9a2.jpg 753,198,788,300,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\108f4e2058cec196.jpg 375,310,409,369,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\131fe8d0bcf463e8.jpg 78,362,96,398,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\131fe8d0bcf463e8.jpg 152,366,172,396,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\131fe8d0bcf463e8.jpg 225,366,244,394,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\131fe8d0bcf463e8.jpg 350,417,371,444,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 114,225,140,317,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 206,203,238,270,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 215,320,238,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 343,93,374,186,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 702,71,737,162,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\18a44030a6941325.jpg 828,219,846,272,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 184,200,227,318,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 248,153,297,305,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 304,153,355,302,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 332,201,371,330,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 382,255,412,315,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 524,260,561,352,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\191ffdbcf12d5351.jpg 562,305,587,348,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 81,99,108,159,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 320,292,329,329,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 336,58,344,119,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 342,54,367,123,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 625,49,652,123,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\19e2ba53d3c11691.jpg 875,232,905,267,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a0218f83f4645db.jpg 437,49,664,1023,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 74,342,119,439,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 115,358,152,431,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 247,399,279,458,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 364,444,376,478,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 430,464,436,483,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 706,467,715,493,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 789,449,805,485,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1a67554e460a5479.jpg 943,432,959,464,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1adf84329b8844b3.jpg 414,458,446,536,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1adf84329b8844b3.jpg 450,459,488,541,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1adf84329b8844b3.jpg 672,447,709,539,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1adf84329b8844b3.jpg 951,339,1023,545,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1ae338143ca70bff.jpg 129,0,706,682,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\1afb4e618588eb2d.jpg 794,171,831,240,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 408,952,1111,2660,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 946,1121,1480,2634,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 1247,2815,1526,3230,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 2044,2880,2258,3256,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 4458,2873,4613,3256,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\21d40034c9d424ee.jpg 4720,3204,4785,3343,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\22ae1f99fe0aa038.jpg 63,258,87,296,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\22ae1f99fe0aa038.jpg 87,263,96,297,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2b623e3751ca14f8.jpg 0,149,104,767,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2b623e3751ca14f8.jpg 71,260,216,767,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2b623e3751ca14f8.jpg 208,25,519,767,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2bfeb1357628ee8d.jpg 129,378,469,698,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2bfeb1357628ee8d.jpg 419,685,485,886,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2bfeb1357628ee8d.jpg 599,218,767,700,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2d751a2cc79cd9f1.jpg 246,129,280,231,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2d751a2cc79cd9f1.jpg 490,142,534,240,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2d751a2cc79cd9f1.jpg 876,406,911,437,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 122,0,279,153,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 152,377,174,417,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 207,391,213,409,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 478,392,494,414,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 528,402,536,419,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 540,401,549,417,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 609,403,623,415,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 840,354,851,380,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 863,305,890,354,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 909,347,959,371,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2ea02ff4c61e652b.jpg 999,348,1014,369,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2f6281b1107b0706.jpg 199,151,442,627,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2f93ab1ed40b1629.jpg 184,294,388,690,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\2f93ab1ed40b1629.jpg 535,0,1023,767,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\34f060d148012218.jpg 122,34,180,193,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\34f060d148012218.jpg 197,29,274,191,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\34f060d148012218.jpg 213,212,267,308,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\396bc4df31a5b217.jpg 40,501,55,520,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\396bc4df31a5b217.jpg 71,490,88,510,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\396bc4df31a5b217.jpg 202,455,225,481,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\396bc4df31a5b217.jpg 595,334,636,442,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\396bc4df31a5b217.jpg 644,325,686,410,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3af7e29161a7f64d.jpg 5,522,17,545,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3af7e29161a7f64d.jpg 220,146,304,298,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3af7e29161a7f64d.jpg 293,104,378,331,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3af7e29161a7f64d.jpg 387,459,420,521,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b81c40deeb69961.jpg 118,338,126,360,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b81c40deeb69961.jpg 118,374,131,384,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b81c40deeb69961.jpg 120,301,133,319,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b81c40deeb69961.jpg 133,336,147,366,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b81c40deeb69961.jpg 715,317,728,335,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3b9a9f90db3fc627.jpg 327,221,638,557,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3bfc0c91e6fcb5a5.jpg 344,563,386,643,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3bfc0c91e6fcb5a5.jpg 350,654,389,710,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3bfc0c91e6fcb5a5.jpg 402,654,430,710,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3d66f2703d3f37e4.jpg 193,512,215,534,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3d66f2703d3f37e4.jpg 337,382,357,425,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3d66f2703d3f37e4.jpg 720,507,741,531,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3d66f2703d3f37e4.jpg 743,505,756,534,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3d66f2703d3f37e4.jpg 945,357,1002,439,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3e07b715d979411e.jpg 897,444,915,461,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3e07b715d979411e.jpg 897,461,919,482,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3e07b715d979411e.jpg 978,328,1002,384,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3e14e5779081f40a.jpg 247,247,286,337,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3e14e5779081f40a.jpg 772,458,803,505,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 343,101,382,220,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 417,487,434,515,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 426,394,446,448,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 731,430,755,476,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 732,502,752,522,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 768,529,772,535,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 787,505,791,513,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\3ef965d96c6c5f56.jpg 929,327,961,386,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\407e32a89584ecb2.jpg 268,338,291,403,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\407e32a89584ecb2.jpg 280,417,304,444,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\407e32a89584ecb2.jpg 773,123,814,217,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\407e32a89584ecb2.jpg 940,92,983,199,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\429bfe03db5b4306.jpg 424,144,478,242,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\42dd47f12eb13222.jpg 196,146,828,362,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\42dd47f12eb13222.jpg 223,0,868,97,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\49b342837c46fb81.jpg 204,488,209,506,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\49b342837c46fb81.jpg 381,325,435,351,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4c6bba348e56a517.jpg 128,747,152,823,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4c6bba348e56a517.jpg 334,309,412,494,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4c6bba348e56a517.jpg 373,913,393,974,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4c6bba348e56a517.jpg 562,777,597,844,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4dc84705000725cd.jpg 231,440,237,454,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4dc84705000725cd.jpg 415,348,423,374,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4dc84705000725cd.jpg 442,432,447,440,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\4dc84705000725cd.jpg 592,445,599,457,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\534ad8a2ae970d0d.jpg 213,56,273,175,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\534ad8a2ae970d0d.jpg 715,121,769,230,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\534ad8a2ae970d0d.jpg 789,203,808,248,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 35,344,53,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 43,186,90,275,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 640,16,678,116,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 727,264,751,307,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 794,228,816,280,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\57ac99d1d5a3e8ca.jpg 841,352,863,386,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 49,279,71,311,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 141,191,190,304,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 183,333,199,371,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 186,253,202,306,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 279,352,280,358,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 295,369,297,381,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 325,403,328,418,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5ac559add7b3b666.jpg 387,439,397,463,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5aef766b129f2807.jpg 307,79,401,149,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5aef766b129f2807.jpg 419,337,453,416,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5aef766b129f2807.jpg 461,464,485,507,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5cc8522fd7496cc9.jpg 0,0,410,532,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5cc8522fd7496cc9.jpg 458,0,999,524,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\5d18bb73c1574621.jpg 542,397,656,685,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 58,327,71,357,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 69,328,85,360,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 291,87,350,248,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 620,307,636,354,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 636,307,655,342,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 648,68,676,128,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\61fa3e3b84c40e63.jpg 651,310,670,355,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 163,356,168,370,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 172,356,187,368,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 241,290,248,333,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 250,283,264,333,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 262,360,268,372,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 267,283,288,325,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 375,300,386,334,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 392,294,403,335,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 421,346,430,363,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 479,361,482,368,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 505,358,513,378,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6a65a982e9bb506c.jpg 524,360,537,374,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 139,287,161,358,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 179,284,212,359,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 432,235,459,329,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 464,239,498,335,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 470,165,505,288,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 502,139,575,318,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6af61e5b030de1ed.jpg 575,247,621,305,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 122,347,164,365,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 161,149,250,179,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 176,358,216,371,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 391,136,513,171,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 687,116,816,151,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 733,368,785,384,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b563c1065a69e80.jpg 834,368,888,381,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 6,421,14,440,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 10,388,19,406,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 48,439,52,451,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 97,383,104,401,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 137,446,142,456,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 144,397,156,413,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 434,233,452,284,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 467,100,508,188,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 524,224,572,341,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 545,271,583,345,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 587,278,627,336,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 590,334,631,380,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 623,334,666,393,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 666,342,680,390,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 670,391,680,411,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b5b03ad4387e5ab.jpg 689,390,709,413,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b6aa3f35f3cd7d3.jpg 3,277,48,363,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b6aa3f35f3cd7d3.jpg 53,277,101,359,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b6aa3f35f3cd7d3.jpg 677,76,730,220,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b6aa3f35f3cd7d3.jpg 741,91,794,228,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6b6aa3f35f3cd7d3.jpg 823,299,903,415,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6f20ad32fca05979.jpg 376,51,472,279,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\6f20ad32fca05979.jpg 577,139,656,325,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\72fe23ea4222e786.jpg 487,688,507,735,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\72fe23ea4222e786.jpg 597,695,620,739,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\72fe23ea4222e786.jpg 608,480,648,586,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\72fe23ea4222e786.jpg 878,481,922,586,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\74ced670ff0d61ff.jpg 392,68,798,663,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\79d25c35b0e2a400.jpg 202,390,288,544,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\79d25c35b0e2a400.jpg 335,313,445,545,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\79d25c35b0e2a400.jpg 354,158,470,248,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7a5fb860128074ba.jpg 502,267,513,292,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7a5fb860128074ba.jpg 582,341,592,365,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7a5fb860128074ba.jpg 642,336,653,363,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7a5fb860128074ba.jpg 683,342,691,363,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7ae6c1a470fa4aa0.jpg 556,477,572,512,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7ae6c1a470fa4aa0.jpg 574,476,586,513,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7ae6c1a470fa4aa0.jpg 979,452,1000,498,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\7d948796e539c98e.jpg 327,483,334,498,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\82f03a4c64d1b387.jpg 61,199,78,242,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\82f03a4c64d1b387.jpg 268,192,288,242,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\82f03a4c64d1b387.jpg 289,198,302,238,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\82f03a4c64d1b387.jpg 492,342,506,363,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\82f03a4c64d1b387.jpg 732,313,749,337,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 21,156,48,206,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 55,163,73,199,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 115,171,126,191,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 119,171,134,206,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 168,180,175,205,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 184,179,190,205,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 325,73,363,90,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 389,193,398,210,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 437,193,443,214,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 527,126,552,134,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 794,14,855,143,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\84c00a9254d4fdf7.jpg 961,174,974,214,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\86edc1834ff233a6.jpg 47,606,174,730,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\86edc1834ff233a6.jpg 84,503,221,655,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\86edc1834ff233a6.jpg 243,598,330,726,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\86edc1834ff233a6.jpg 270,486,409,653,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\86edc1834ff233a6.jpg 310,374,442,510,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\88fe0b39b6d65ef4.jpg 266,397,394,498,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\88fe0b39b6d65ef4.jpg 274,231,360,377,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8cd024b5fe6f557b.jpg 615,103,645,218,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8cd024b5fe6f557b.jpg 635,0,749,224,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8cd024b5fe6f557b.jpg 686,8,789,184,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8cd024b5fe6f557b.jpg 780,316,798,364,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8cd024b5fe6f557b.jpg 799,318,811,366,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d0beb83204901f2.jpg 131,460,157,524,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d0beb83204901f2.jpg 468,378,528,524,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 261,666,286,705,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 290,645,304,663,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 479,621,494,645,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 935,689,961,724,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 989,675,1023,710,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\8d5f472c27aeb5f6.jpg 991,512,1023,581,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 112,383,122,400,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 121,409,129,421,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 288,357,298,372,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 306,350,320,372,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 323,409,331,421,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 342,355,354,375,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 346,404,354,416,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 364,366,372,385,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 403,367,410,388,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 420,326,430,358,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 488,362,499,382,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 507,364,518,384,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 519,318,529,352,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 528,415,535,421,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 540,415,547,423,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 545,306,558,347,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 640,149,666,223,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 664,372,673,398,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 731,317,743,357,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 787,360,794,379,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 798,359,803,380,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\93cd660034e95d3b.jpg 986,402,992,413,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\95fe706adec94c97.jpg 796,0,910,51,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\97d16f4979f6b015.jpg 540,259,563,323,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 22,146,110,292,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 76,432,105,470,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 97,237,161,346,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 163,366,192,418,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 208,406,233,448,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 526,439,537,478,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 615,461,625,487,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 631,471,640,489,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 776,268,814,368,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\98c762a8a33b4218.jpg 885,135,954,290,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\9a181fc182d696b4.jpg 413,198,467,309,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\9a4cb179d073af9a.jpg 511,263,531,293,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\9a4cb179d073af9a.jpg 833,13,898,135,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\9b12b11dca91a319.jpg 367,243,680,1023,3
+C:\Users\HOME\Desktop\Tutorial\OID\Dataset\train\Traffic_light\9dc1b397eb017757.jpg 471,256,485,288,3
