@@ -1,0 +1,26 @@
+<annotation>
+  <folder>XML_images</folder>
+  <filename>XML_8.jpg</filename>
+  <path>C:\Users\HOME\Desktop\YOLOv3_CSGO\XML_images\XML_8.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ch 0.40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>372</xmin>
+      <ymin>103</ymin>
+      <xmax>382</xmax>
+      <ymax>115</ymax>
+    </bndbox>
+  </object>
+</annotation>
