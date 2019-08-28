@@ -5,19 +5,20 @@ import os
 import cv2
 import time
 
+# input is result of cv.imread(image)
 def CreateXMLfile(image, ObjectsList):
     Folder_to_save = "XML_images"
     os.chdir(Folder_to_save)
     image_num = len(glob.glob("*.jpg"))
     print("Number of .jpg files =", image_num)
-    img_name = "XML_"+str(image_num)+".jpg"
-    cv2.imwrite(img_name,image)
-    #file_count =  glob.glob(Folder_to_save+'*.*')
-    #print(file_count)
-    
 
-    #if not os.path.exists(Folder_to_save):
-    #    os.makedirs(Folder_to_save)
+    img_name = "XML_"+str(image_num+1)+".jpg"
+    while os.path.isfile(img_name):
+        image_num+=1
+        img_name = "XML_"+str(image_num)+".jpg"
+    
+    cv2.imwrite(img_name,image)
+
     annotation = etree.Element("annotation")
 
     folder = etree.Element("folder")
@@ -49,11 +50,7 @@ def CreateXMLfile(image, ObjectsList):
 
     img = cv2.imread(filename_xml.text)
 
-    #try:
     width.text = str(img.shape[1])
-    #except AttributeError:
-        #os.chdir("Label")
-        #continue
     height.text = str(img.shape[0])
     depth.text = str(img.shape[2])
 

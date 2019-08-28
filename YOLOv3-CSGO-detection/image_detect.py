@@ -11,17 +11,17 @@ from keras.layers import Input
 
 from yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
 from yolo3.utils import image_preporcess
+from collect_XLM_images import *
 
 class YOLO(object):
     _defaults = {
-        #"model_path": 'logs/trained_weights_final.h5',
         "model_path": 'logs/trained_weights_final.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/CSGO_classes.txt',
         "score" : 0.3,
         "iou" : 0.45,
         "model_image_size" : (416, 416),
-        "text_size" : 3,
+        "text_size" : 4,
     }
 
     @classmethod
@@ -158,7 +158,7 @@ class YOLO(object):
         r_image, ObjectsList = self.detect_image(original_image_color)
         return r_image, ObjectsList
 
-
+'''
 from textwrap import dedent
 from lxml import etree
 import glob
@@ -166,6 +166,7 @@ def CreateXMLfile(image, ObjectsList):
     Folder_to_save = "XML_images"
     os.chdir(Folder_to_save)
     print("Number of .jpg files =", len(glob.glob("*.jpg")))
+    
 
     annotation = etree.Element("annotation")
 
@@ -175,7 +176,7 @@ def CreateXMLfile(image, ObjectsList):
 
     filename_xml = etree.Element("filename")
     filename_str = image.split(".")[0]
-    filename_xml.text = image
+    filename_xml.text = image#filename_str + ".jpg"
     annotation.append(filename_xml)
 
     path = etree.Element("path")
@@ -198,7 +199,11 @@ def CreateXMLfile(image, ObjectsList):
 
     img = cv2.imread(filename_xml.text)
 
+    #try:
     width.text = str(img.shape[1])
+    #except AttributeError:
+        #os.chdir("Label")
+        #continue
     height.text = str(img.shape[0])
     depth.text = str(img.shape[2])
 
@@ -262,15 +267,16 @@ def CreateXMLfile(image, ObjectsList):
         f.close()
 
     os.chdir("..")
-
-
+'''
     
 if __name__=="__main__":
     yolo = YOLO()
-    image = 'T.jpg'
+    image = 'home.jpg'
     r_image, ObjectsList = yolo.detect_img(image)
+    #print(ObjectsList)
     if len(ObjectsList) > 0:
-        CreateXMLfile(image, ObjectsList)
+        CreateXMLfile(cv2.imread(image), ObjectsList)
     cv2.imshow(image, r_image)
+    cv2.imwrite('home_detection.jpg', r_image)
 
     yolo.close_session()

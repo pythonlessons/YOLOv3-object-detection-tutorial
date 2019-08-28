@@ -182,6 +182,12 @@ class YOLO(object):
         r_image, ObjectsList = self.detect_image(original_image_color)
         return r_image, ObjectsList
 
+def Shoot(mid_x, mid_y):
+  #x = int(mid_x*width)
+  #y = int(mid_y*height)
+  #y = int(mid_y*height+height/9)
+  pyautogui.moveTo(mid_x,mid_y)
+  pyautogui.click()
 
 def GRABMSS_screen(p_input):
     while True:
@@ -217,6 +223,7 @@ def SHOWMSS_screen(p_output):
                         print("aiming to head !")
                         pyautogui.click()
                 break
+                #continue
 
         cv2.imshow("YOLO v3", r_image)
         fps+=1
