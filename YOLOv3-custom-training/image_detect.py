@@ -164,5 +164,7 @@ if __name__=="__main__":
     r_image, ObjectsList = yolo.detect_img(image)
     #print(ObjectsList)
     cv2.imshow(image, r_image)
-
+    if cv2.waitKey(25) & 0xFF == ord("q"):
+        cv2.destroyAllWindows()
+        return
     yolo.close_session()
