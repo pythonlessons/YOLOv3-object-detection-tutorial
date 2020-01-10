@@ -277,6 +277,9 @@ if __name__=="__main__":
     if len(ObjectsList) > 0:
         CreateXMLfile(cv2.imread(image), ObjectsList)
     cv2.imshow(image, r_image)
+    if cv2.waitKey(25) & 0xFF == ord("q"):
+        cv2.destroyAllWindows()
+        return
     cv2.imwrite('home_detection.jpg', r_image)
 
     yolo.close_session()
