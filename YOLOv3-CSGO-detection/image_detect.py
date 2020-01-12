@@ -279,7 +279,7 @@ if __name__=="__main__":
     cv2.imshow(image, r_image)
     if cv2.waitKey(25) & 0xFF == ord("q"):
         cv2.destroyAllWindows()
-        return
+        break
     cv2.imwrite('home_detection.jpg', r_image)
 
     yolo.close_session()
