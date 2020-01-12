@@ -166,5 +166,5 @@ if __name__=="__main__":
     cv2.imshow(image, r_image)
     if cv2.waitKey(25) & 0xFF == ord("q"):
         cv2.destroyAllWindows()
-        return
+        break
     yolo.close_session()
