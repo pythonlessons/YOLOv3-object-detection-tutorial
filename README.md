@@ -10,8 +10,8 @@ https://pylessons.com/YOLOv3-WebCam/<br>
 <br>
 In future will update readme file
 
-Requirements:
-TensorFlow 1.15
-Keras 2.2.4
-Numpy (all versions should work)
-opencv-python (all versions should work)
+Requirements:<br>
+TensorFlow 1.15<br>
+Keras 2.2.4<br>
+Numpy (all versions should work)<br>
+opencv-python (all versions should work)<br>
