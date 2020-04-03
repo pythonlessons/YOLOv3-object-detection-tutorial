@@ -10,7 +10,7 @@ https://pylessons.com/YOLOv3-WebCam/<br>
 <br>
 In future will update readme file
 
-Requirements:<br>
+<b>Requirements:</b><br>
 TensorFlow 1.15<br>
 Keras 2.2.4<br>
 Numpy (all versions should work)<br>
