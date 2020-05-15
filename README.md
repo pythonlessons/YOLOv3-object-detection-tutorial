@@ -1,5 +1,5 @@
-# Right now writing detailed YOLO v3 tutorials for TensorFlow 2.x
-Detection and custom training process works better and is more accurate:
+# Right now writing detailed YOLO v3 tutorials for TensorFlow 2.x<br>
+Detection and custom training process works better and is more accurate:<br>
 https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3
 
 # YOLOv3-object-detection-tutorial
